@@ -37,8 +37,9 @@ A l'intérieur du fichier `profiles.yml`, modifier le <b>path</b> afin de modifi
 
 ### Lancement du projet 
 
+Depuis le dossier du projet : `cd work`<br/>
 
-`python ingestion_dataset.py` depuis le dossier `work`<br/>
+`python ingestion_dataset.py`
 
  > **Attention**, le traitement des insertions peut prendre plusieurs minutes (environ 10 minutes)
 
