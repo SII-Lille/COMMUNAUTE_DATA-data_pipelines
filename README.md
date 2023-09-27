@@ -27,11 +27,7 @@ Activation de l'environnement :<br>
 
 Installation des différentes librairies :
 
-`pip install pandas==2.0.3` <br/>
-`pip install duckdb==0.8.1` <br/>
-`pip install pydantic`<br/>
-`pip install dbt-duckdb`<br/>
-`pip install Flask`
+`pip install -r requirements.txt`
 <br/>
 
 Mettre le fichier profiles.yml dans le dossier `C:\Utilisateurs\prenom.nom\.dbt` <br>
