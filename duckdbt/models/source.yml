@@ -1,0 +1,17 @@
+version: 2
+
+sources:
+  - name: sales_bdd
+    database: sales_bdd
+    schema: main
+    description: ""
+    tables:
+      - name: Sales
+        columns:
+          - name: product_id
+          - name: store_id
+          - name: date
+          - name: sales
+          - name: revenue
+          - name: stock
+          - name: price

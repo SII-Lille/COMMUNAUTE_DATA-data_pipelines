@@ -1,0 +1,7 @@
+duckdbt:
+  target: dev
+  outputs:
+    dev:
+      type: duckdb
+      database: sales_bdd
+      path: 'C:/Users/prenom.nom/Documents/projet_duckdbt/duckdb/sales_bdd.duckdb'

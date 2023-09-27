@@ -1,0 +1,14 @@
+
+version: 2
+
+models:
+  - name: total_revenue_per_month
+    description: ""
+    columns:
+      - name: year
+        description: "année"
+      - name: month
+        description: "mois"
+      - name: total_revenue
+        description: "total revenue"
+
